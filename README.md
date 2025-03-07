@@ -1,4 +1,4 @@
-This is an **issue-only** repository tracking **technical issues** with the [sarna.net BattleTech Wiki](https://www.sarna.net).
+This is an [**issue-only**](https://github.com/sarna-net/sarna-issues/issues) repository tracking **technical issues** with the [sarna.net BattleTech Wiki](https://www.sarna.net).
 
 * Visible server errors
   * Search issues
