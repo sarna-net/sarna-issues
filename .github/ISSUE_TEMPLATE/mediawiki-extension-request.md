@@ -1,6 +1,6 @@
 ---
 name: MediaWiki Extension Request
-about: 'MediaWiki Extension Request: [extension]'
+about: Request a new MediaWiki Extension
 title: 'MediaWiki Extension Request: [extension]'
 labels: plugins
 assignees: nicjansma
